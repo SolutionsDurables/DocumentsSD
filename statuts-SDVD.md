@@ -29,20 +29,20 @@ Les fonds de l'association sont utilisés conformément au but social et provien
 La qualité de membre est ouverte à toute personne physique ou morale, qui partage la même vision au sens de l’art. 3, acquise par l’inscription et le versement de la cotisation. 
 Chaque membre peut participer activement aux tâches et aux actions de SDVD ou de ses antennes locales. L'association est composée de :
 1) Membres actifs avec droit de vote : personnes physiques uniquement:
-* engagées à soutenir la transformation durable et sociale; 
-* signataires de la charte SD ou membre d’une organisation signataire; 
-* à jour de leurs cotisations;
-* membres bienfaiteurs : cotisations minimales définies par le comité;
-* membres passifs ayant reçu une procuration d’un membre actif, agréés par le comité;
-* membres agréés par le comité.
+  * engagées à soutenir la transformation durable et sociale; 
+  * signataires de la charte SD ou membre d’une organisation signataire; 
+  * à jour de leurs cotisations;
+  * membres bienfaiteurs : cotisations minimales définies par le comité;
+  * membres passifs ayant reçu une procuration d’un membre actif, agréés par le comité;
+  * membres agréés par le comité.
 2) Membres passifs sans droit de vote : personnes physiques ou morales:
-* engagées à soutenir la transformation durable et sociale; 
-* agréées par le comité;
-* membres donateurs agréés par le comité: soutiens financiers ou matériels;
-* membres parrains/marraines désignés par le comité: soutiens, sponsors;
-* membres d'honneur désignés par le comité;
-* membres associés ou partenaires désignés par le comité: organisations soutenant nos buts ou nos activités;
-* individus ou organismes qui suivent et souscrivent à nos activités.
+  * engagées à soutenir la transformation durable et sociale; 
+  * agréées par le comité;
+  * membres donateurs agréés par le comité: soutiens financiers ou matériels;
+  * membres parrains/marraines désignés par le comité: soutiens, sponsors;
+  * membres d'honneur désignés par le comité;
+  * membres associés ou partenaires désignés par le comité: organisations soutenant nos buts ou nos activités;
+  * individus ou organismes qui suivent et souscrivent à nos activités.
 Les demandes d'admission sont adressées au comité. Le comité admet les nouveaux membres et en informe l'assemblée générale lors de l’AG suivante.
 
 La qualité de membre se perd:
