@@ -4,7 +4,7 @@ SolutionsDurables Vaud (SDVD) est une association sans but lucratif régie par l
 ## Article 2 - Siège et durée
 Le siège de l'association est situé à la case postale “SolutionsDurables, CP 202, CH-1009 Pully”, ou de son·sa président·e.
 Sa durée est indéterminée.
-##Article 3 - Buts
+## Article 3 - Buts
 Son but principal est de promouvoir des transformations durables et responsables auprès des organisations, entreprises, professionnels et particuliers, à travers des programmes sur-mesure de sensibilisation, d’information et d’accompagnement.
 Pour soutenir un progrès économique et social au service de l’intérêt commun, SDVD sensibilise, promeut, encourage, développe et soutient:
 * les concepts d’économie circulaire et d’économie bleue;  
