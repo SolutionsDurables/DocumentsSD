@@ -37,6 +37,7 @@ Chaque membre peut participer activement aux tâches et aux actions de SDVD ou d
 * membres passifs ayant reçu une procuration d’un membre actif, agréés par le comité;
 * membres agréés par le comité.
 
+
 2) Membres passifs sans droit de vote : personnes physiques ou morales:
 * engagées à soutenir la transformation durable et sociale; 
 * agréées par le comité;
