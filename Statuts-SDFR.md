@@ -14,7 +14,7 @@ Pour soutenir un progrès économique et social au service de l’intérêt comm
 * acheter, créer, facturer, vendre ou revendre des objets, livres, brochures, produits, services, conseils, prestations, formations, coaching, ou autre;
 * organiser des conférences, séminaires, cours, débats, rencontres ou évènements;
 * collaborer et coordonner les actions avec des associations poursuivant les mêmes buts.
-SDFR réalise ses buts dans le respect de la charte “SolutionsDurables” (Charte SD) disponible sur le site web [SolutionsDurables.ch](SolutionsDurables.ch).
+SDFR réalise ses buts dans le respect de la charte “SolutionsDurables” [(Charte SD)](https://github.com/SolutionsDurables/DocumentsSD/blob/master/Charte-SolutionsDurables.md) disponible sur le site web [SolutionsDurables.ch](SolutionsDurables.ch).
  
 ## Article 4 - Ressources
 Les fonds de l'association sont utilisés conformément au but social et proviennent : 
