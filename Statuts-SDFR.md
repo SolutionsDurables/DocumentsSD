@@ -30,7 +30,7 @@ Chaque membre peut participer activement aux tâches et aux actions de SDFR ou d
 
 1) Membres actifs avec droit de vote : personnes physiques uniquement:
 * engagées à soutenir la transformation durable et sociale; 
-* signataires de la charte SD ou membre d’une organisation signataire; 
+* signataires de la charte SD ou membre d’une organisation signataire [(Code SD)](https://github.com/SolutionsDurables/DocumentsSD/blob/master/Charte-SolutionsDurables.md); 
 * à jour de leurs cotisations;
 * membres bienfaiteurs : cotisations minimales définies par le comité;
 * membres passifs ayant reçu une procuration d’un membre actif, agréés par le comité;
