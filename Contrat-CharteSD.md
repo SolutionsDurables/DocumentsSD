@@ -135,3 +135,6 @@ Par votre signature, vous confirmez avoir pris connaissance des conditions gén�
 
 Lu et approuvé, 
 Lieu, date et signature :  
+
+# Mentions légales 
+Le présent contrat utilisé par SolutionsDurables pour régir le Réseau SD est une extension à l'identique d'un document faisant partie du système Kalix v3 créé par http://www.kalix.ch. Ce document peut être utilisé, étudié, copié, modifié et distribué selon les principes de la Déclaration de Biens Communs Numérisés disponible à l'adresse http://kalix.ch/declaration-de-biens-communs-numerises/.
