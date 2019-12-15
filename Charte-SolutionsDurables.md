@@ -1,4 +1,5 @@
 # Charte SolutionsDurables, Charte SD ou Code SD
+Version DRAFT2019-12-15 DRAFT (Brouillon)
 ## Déontologie et éthique de travail du Réseau SD (SolutionsDurables)
 Le code déontologique suivant est un engagement contractuel, régi par la loi Suisse, dont les signataires remettent [le contrat](TK) signé, à une des associations SolutionsDurables en Suisse. Cette dernière ajoute le signataire dans une liste officielle publiée sur le web.
 * [Liste des signataires individuels](TK)
