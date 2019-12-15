@@ -33,7 +33,7 @@ Les présentes conditions générales régissent la relation contractuelle entre
 
 
 ### 1.  Respect du Code SD 
-1.1 Les parties se réfèrent au Code SD annexé au présent formulaire. Elles rappellent que ce code décrit le fonctionnement du Réseau SD d’une part et les règles de comportement que les contributeurs de ce réseau doivent observer d’autre part. Elles prennent toutes deux l’engagement de respecter lesdites règles. 
+1.1 Les parties se réfèrent au [Code SD annexé](https://github.com/SolutionsDurables/DocumentsSD/blob/master/Charte-SolutionsDurables.md) au présent formulaire. Elles rappellent que ce code décrit le fonctionnement du Réseau SD d’une part et les règles de comportement que les contributeurs de ce réseau doivent observer d’autre part. Elles prennent toutes deux l’engagement de respecter lesdites règles. 
 
 
 1.2 L’engagement du participant de respecter le Code SD vaut non seulement à l’égard de SD, mais également à l’égard de tous les autres contributeurs et de leurs propres clients. Chaque contributeur du Réseau SD peut ainsi exiger de tout autre contributeur le respect du Code SD. Il en va de même pour les clients du contributeur.
