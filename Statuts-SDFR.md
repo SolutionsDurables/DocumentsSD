@@ -139,4 +139,4 @@ L'association est valablement engagée par la signature collective à deux membr
 L'exercice social commence le 1er janvier et se termine le 31 décembre de chaque année.
 ## Article 21 - Dissolution
 En cas de dissolution de l'association, l'actif disponible sera entièrement attribué à une institution poursuivant un but d'intérêt public analogue à celui de l'association et bénéficiant de l’exonération de l’impôt. En aucun cas, les biens ne pourront retourner aux fondateurs physiques ou aux membres, ni être utilisés à leur profit en tout ou partie et de quelque manière que ce soit.
-Les présents statuts ont été adoptés par l'assemblée générale constitutive du 15 décembre 2019 à Pully (VD, Suisse).
+Les présents statuts ont été adoptés par l'assemblée générale constitutive du 15 décembre 2019 à Semsales (FR, Suisse).
