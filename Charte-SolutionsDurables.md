@@ -1,11 +1,11 @@
 # Charte SolutionsDurables, Charte SD ou Code SD
 Version DRAFT2019-12-15 DRAFT (Brouillon)
 ## Déontologie et éthique de travail du Réseau SD (SolutionsDurables)
-Le code déontologique suivant est un engagement contractuel, régi par la loi Suisse, dont les signataires remettent [le contrat](TK) signé, à une des associations SolutionsDurables en Suisse. Cette dernière ajoute le signataire dans une liste officielle publiée sur le web.
+Le code déontologique suivant est un engagement contractuel, régi par la loi Suisse, dont les signataires remettent [le contrat](https://github.com/SolutionsDurables/DocumentsSD/blob/master/Contrat-CharteSD.md) signé, à une des associations SolutionsDurables en Suisse. Cette dernière ajoute le signataire dans une liste officielle publiée sur le web.
 * [Liste des signataires individuels](TK)
 * [Liste des organisations signataires](TK)
 ## Pour rejoindre le Réseau SolutionsDurables (SD)
-[lien ou email pour transmettre le contrat signé]()
+[lien ou email pour transmettre le contrat signé](https://github.com/SolutionsDurables/DocumentsSD/blob/master/Contrat-CharteSD.md)
 ## Source: Kalix
 Ce Code SD utilise une version étendue du code Kalix 3.0, dont il conserve une compatibilité ascendante. Pour autant, le code SD ne pourra pas garantir une compatiblité avec un éventuel code Kalix 4.0. Un autre réseau Kalix (comme http://kalix.ict-a.ch) ne pourra pas prétendre à être compatible avec le code SD, qui est une extension du Kalix d'origine.
 * Source: http://kalix.ch/ViewerJS/#../ODT/Code-Kalix_v3-0.odt
