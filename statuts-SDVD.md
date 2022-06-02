@@ -11,7 +11,8 @@ Pour soutenir un progrès économique et social au service de l’intérêt comm
 * les modèles d’organisation de type Opale (évolutive, autogouvernance) et inclusive; 
 * les solutions favorisant le bien-être au travail;
 * les transitions numériques éco-responsables, inclusives, agiles et collaboratives.
- A cet effet, elle peut prendre les mesures qu’elle juge nécessaires, mobilières ou immobilières :
+
+A cet effet, elle peut prendre les mesures qu’elle juge nécessaires, mobilières ou immobilières :
 * acheter, créer, facturer, vendre ou revendre des objets, livres, brochures, produits, services, conseils, prestations, formations, coaching, ou autre;
 * organiser des conférences, séminaires, cours, débats, rencontres ou évènements;
 * collaborer et coordonner les actions avec des associations poursuivant les mêmes buts.
